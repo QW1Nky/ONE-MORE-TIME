@@ -1,2 +1,2 @@
 Жили да не тужили три разработчика:
-First,MCSecond,Third
+MCFirst,MCSec0nd,Third
