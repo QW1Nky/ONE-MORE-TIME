@@ -1,3 +1,7 @@
 Жили да не тужили три разработчика:
 MCFirst,MCSec0nd,Third
+<<<<<<< HEAD
 Easy Easy r2 tock
+=======
+Easy Easy r0 tock
+>>>>>>> chanched2
